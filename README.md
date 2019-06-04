@@ -1,4 +1,4 @@
-# Average, median and desceding number using vector 
+# Average, median and desceding numbers using vector 
 
 ![8](https://user-images.githubusercontent.com/45263429/58914522-02aae180-871f-11e9-8afa-17085467738d.png)
 
