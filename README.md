@@ -4,6 +4,6 @@
 
 #### A simple application written in C++ for university project
 
-Input several numbers until program stops by typing 0, then it will display all typed number, average number, median number and numbers in descending orders. 
+Input several numbers until program stops by typing 0, then it will display all typed number, average number, median number and numbers in descending order. 
 
 
